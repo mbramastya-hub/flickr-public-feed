@@ -29,19 +29,6 @@ mongod
 
 ```
 
-## Endpoints
-
-```
-# Routes
-ROOT          {{url}}/
-POST          {{url}}/api/users
-GET           {{url}}/api/users
-GET BY ID     {{url}}/api/users/:userId
-PUT           {{url}}/api/users/:userId
-DELETE        {{url}}/api/users/:userId
-
-```
-
 ## Licensed under [MIT](https://raw.githubusercontent.com/hasimy-as/Codebase-Express/master/LICENSE)
 
 Want to collaborate? Fork the project and be a collaborator now!
